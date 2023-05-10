@@ -6,7 +6,7 @@ Task-3 - Done,
 Task-4 - Done,
 Task-5 - Done,
 Task-6 - Done,
-Task-7 -
-Task-8 -
-Task-9 -
-Task-10 -
+Task-7 - Done,
+Task-8 - Done,
+Task-9 - Done,
+Task-10 - Done.
